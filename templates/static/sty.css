@@ -1,0 +1,79 @@
+.btn{
+    display: block;
+    position: relative;
+    margin: auto 5px auto 8px;
+
+}
+.but{
+    display: block;
+  position: relative;
+  padding-left: 35px;
+}
+.navbar-brand{
+  position: relative;
+  margin: auto auto auto 10px;
+}
+
+.nav-item{
+  position: relative;
+  margin: auto auto auto 40px;
+  padding-left: 0%;
+}
+.nav-link{
+  position: relative;
+  margin: auto 30px auto auto;
+}
+.Top-container{
+  position: relative;
+  margin: auto 40% auto 35%;
+  padding: 30px;
+  font-family: 'Libre Franklin',sans-serif;
+  font-size:1.5rem;
+  color:#53595d;
+  
+}
+/* .intro{
+  position: relative;
+  margin: auto auto auto 8%;
+  font-size:1.4rem;
+  font-family: 'Merriweather', serif;
+  color:#53595d;
+} */
+/* .intro1{
+  position: relative;
+  margin: auto auto auto 32%;
+  font-size:1.4rem;
+  font-family: 'Merriweather', serif;
+  color:#53595d;
+  display: inline;
+} */
+.Bottom{
+  background-color:#53595d;
+
+}
+.Top{
+  background-color: #F3F4ED;
+  padding:50px auto 40px;
+}
+.battery{
+  display: inline-block;
+  position: relative;
+  margin: auto auto auto 26%;
+ 
+}
+.lock{
+  display: inline-block;
+  position: relative;
+  margin: auto auto 60% 12%;
+}
+.smile{
+  display: inline-block;
+  position: relative;
+  margin: auto auto 5% 12%;
+}
+.text{
+  font-family: 'Libre Franklin',sans-serif;
+  font-weight: 600;
+  font-size: 2rem;
+  line-height: 1.5;
+}
